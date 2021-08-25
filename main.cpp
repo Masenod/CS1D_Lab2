@@ -1,5 +1,5 @@
-// Author Mason Emes
-// Description:Hello World in C++
+// Author Mason Emes and Yuchen Zhu
+// Description: Hello World in C++
 //============================================================
 
 #include <iostream>
